@@ -11,49 +11,24 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* PhD in Statistics and Computer Science, 2023 - present
+  * Università Bocconi, Milano, Italy
+
+* M2 degree in Applied and Pure Mathematics, 2021 - 2022
+  * Université Paris Dauphine, Paris, France 
+  * Thesis title: Kernel statistical distances and application to NLP
+  * Thesis advisor: Prof. Gabriel Turinici
+
+* Master’s degree in Mathematics, 2020 - 2022
+  * Università degli Studi di Padova, Padua, Italy 
+  * Main field of interest: Probability, Machine Learning, Numerical Methods 
+
+* Bachelor’s degree in Mathematics, 2017 - 2020
+  * Università degli Studi di Padova, Padua, Italy 
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2022 - 2023: Financial Risk Management Consultant
+  * KPMG, Milan, Italy
+  
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
