@@ -8,5 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am PhD student in Statistics and Computer Science at Università Bocconi, Milan, Italy.
+I am PhD student in Statistics and Computer Science at Università Bocconi, Milan, Italy.\\
+
 I am interested in Applied Mathematics
