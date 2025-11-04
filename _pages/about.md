@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am PhD student in Statistics and Computer Science at Università Bocconi, Milan, Italy.
+I am currently a PhD student in Statistics and Computer Science at [Bocconi University] (https://www.unibocconi.it/it) in Milan, Italy.
 
-I am interested in Applied Mathematics
+My PhD Advisor is [Giacomo Zanella] (https://sites.google.com/site/gzanellawebpage/home) (Bocconi University)
