@@ -29,7 +29,7 @@ Education
 
 Work experience
 ======
-* Internship at Alkemy, Italy, summer 2024
+* Internship at Alkemy, Italy, Summer 2024
   * Project: Fine-Tuning Techniques for Diffusion Models
 * Consultant in Financial Risk Management at KPMG Italy, 2022 - 2023
   
