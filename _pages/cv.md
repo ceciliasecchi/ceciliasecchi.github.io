@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+{%title: "CV"}
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -12,7 +12,8 @@ redirect_from:
 Education
 ======
 * PhD in Statistics and Computer Science, 2023 - present
-  * Università Bocconi, Milano, Italy
+  * Bocconi University, Milan, Italy
+  * Thesis advisor: Prof. Giacomo Zanella 
 
 * M2 degree in Applied and Pure Mathematics, 2021 - 2022
   * Université Paris Dauphine, Paris, France 
@@ -28,7 +29,8 @@ Education
 
 Work experience
 ======
-* 2022 - 2023: Financial Risk Management Consultant
-  * KPMG, Milan, Italy
+* Internship at Alkemy, Italy, summer 2024
+  * Project: Fine-Tuning Techniques for Diffusion Models
+* Consultant at KPMG, Italy, in Financial Risk Management, 2022 - 2023
   
 
