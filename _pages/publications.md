@@ -19,7 +19,7 @@ author_profile: true
 
 <ul>
   <li><strong> Spectral gap of Metropolis-within-Gibbs under log-concavity </strong><br>
-  <em>C. Secchi, G. Zanella(s)</em> (2025). <a href="[https://arxiv.org/abs/XXXX.XXXXX](https://arxiv.org/pdf/2509.26175)">arXiv:XXXX.XXXXX</a></li>
+  <em>C. Secchi, G. Zanella(s)</em> (2025). <a href="[https://arxiv.org/pdf/2509.26175](https://arxiv.org/pdf/2509.26175)">arXiv:XXXX.XXXXX</a></li>
   <!-- Add more preprints as needed -->
 </ul>
 
