@@ -14,3 +14,13 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+<h2>Preprints</h2>
+
+<ul>
+  <li><strong> Spectral gap of Metropolis-within-Gibbs under log-concavity </strong><br>
+  <em>C. Secchi, G. Zanella(s)</em> (2025). <a href="[https://arxiv.org/abs/XXXX.XXXXX](https://arxiv.org/pdf/2509.26175)">arXiv:XXXX.XXXXX</a></li>
+  <!-- Add more preprints as needed -->
+</ul>
+
+<hr>
