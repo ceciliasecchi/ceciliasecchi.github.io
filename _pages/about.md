@@ -13,7 +13,7 @@ I am currently a PhD student in Statistics and Computer Science at [Bocconi Univ
 My PhD Advisor is [Giacomo Zanella](https://sites.google.com/site/gzanellawebpage/home) (Bocconi University)
 
 
-<h2>Preprints</h2>
+<h3>Preprints</h3>
 
 <ul>
   <li><strong> Spectral gap of Metropolis-within-Gibbs under log-concavity </strong><br>
