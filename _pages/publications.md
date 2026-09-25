@@ -9,7 +9,7 @@ author_profile: true
 
 <ul>
   <li><strong> Schedule optimization for tau-leaping in masked discrete diffusion. </strong><br>
-  <em>C. Secchi, G. Zanella(s)</em> (2025). <a href="https://arxiv.org/pdf/2609.21960">arXiv:2609.21960</a></li>
+  <em>C. Secchi, G. Zanella(s)</em> (2026). <a href="https://arxiv.org/pdf/2609.21960">arXiv:2609.21960</a></li>
   <!-- Add more preprints as needed -->
 </ul>
 
