@@ -14,3 +14,5 @@
 
 #Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
 "Spectral gap of Metropolis-within-Gibbs under log-concavity." __Secchi, Cecilia, and Giacomo Zanella__.  arXiv preprint [arXiv:2509.26175 (2025)](https://arxiv.org/abs/2509.26175).
+
+"Schedule optimization for tau-leaping in masked discrete diffusion." __Secchi, Cecilia, and Giacomo Zanella__.  arXiv preprint [arXiv:2609.21960 (2026)](https://arxiv.org/pdf/2609.21960). 
